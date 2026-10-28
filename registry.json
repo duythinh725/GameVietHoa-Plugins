@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "sample_text_plugin",
+      "name": "Sample Text Plugin",
+      "version": "1.0.0",
+      "engine": "generic",
+      "capabilities": ["detect"],
+      "download_url": "https://github.com/duythinh725/GameVietHoa-Plugins/releases/download/v1.0.0/sample_text_plugin-1.0.0.zip",
+      "sha256": "da0799c9207b03b07d298a47acec01e54708ab0adeb3447945675a10a273a618",
+      "publisher": "GameVietHoaStudio",
+      "app_version": ">=1.0.0"
+    }
+  ]
+}
